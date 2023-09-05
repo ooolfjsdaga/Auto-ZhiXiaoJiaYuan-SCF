@@ -1,15 +1,15 @@
 [
   {
     "enable": true,
-    "alias": "张三",
-    "phone": "18888888888",
-    "password": "123456...",
+    "alias": "赵一博",
+    "phone": "18437597802",
+    "password": "zhaoyibo.00",
     "randomLocation": false,
     "deviceType": "Xiaomi|Mi 13|13",
-    "deviceId": "设备ID",
+    "deviceId": "e85a326f2baf47b4af4a406ac0ba6084e34d",
     "address": "打卡地址",
-    "longitude": "位置经度",
-    "latitude": "位置纬度",
-    "pushKey": "推送Key"
+    "longitude": "113.43878",
+    "latitude": "23.11898",
+    "pushKey": "225f1ac0f5f6466d8ed091523b6e1600"
   }
 ]
