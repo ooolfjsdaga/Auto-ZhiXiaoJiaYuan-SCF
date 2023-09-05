@@ -1,0 +1,15 @@
+[
+  {
+    "enable": true,
+    "alias": "赵一博",
+    "phone": "18437597802",
+    "password": "zhaoyibo.00",
+    "randomLocation": false,
+    "deviceType": "Xiaomi|Mi 13|13",
+    "deviceId": "e85a326f2baf47b4af4a406ac0ba6084e34d",
+    "address": "打卡地址",
+    "longitude": "113.43878",
+    "latitude": "23.11898",
+    "pushKey": "225f1ac0f5f6466d8ed091523b6e1600"
+  }
+]
